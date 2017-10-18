@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class LevelManager : MonoBehaviour {
-//Test
+//Test GitHub
 	public void LoadLevel(string name){
 		Application.LoadLevel (name);
 	}
